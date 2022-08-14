@@ -1,0 +1,72 @@
+body {
+    background-image: url(https://lebechibucketforproject.s3.amazonaws.com/menu_photo_done.jpg);
+    padding: 20px;
+    color: rgb(90, 37, 8);
+}
+
+body {
+    background-color: rgb(12, 5, 19);
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+.catch {
+    font-style: italic;
+}
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-family: cursive;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: Impact;
+}
+
+
+div {
+    background-color: rgb(241, 220, 192);
+    text-align: center;
+    width: 80%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+article p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+
+.item {
+    text-align: left;
+    width: 75%;
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+hr {
+    background-color: brown;
+    height: 2px;
+    border: none;
+}
+
+.lastline {
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+footer p {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
